@@ -1,0 +1,15 @@
+{
+    "children": {
+        "node": {
+            "bg-texture": {
+                "attributes": {
+                    "color": {
+                        "r": 0,
+                        "g": 50,
+                        "b": 75
+                    }
+                }
+            }
+        }
+    }
+}
