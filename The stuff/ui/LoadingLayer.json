@@ -3,10 +3,16 @@
         "node": {
             "bg-texture": {
                 "attributes": {
+                    "sprite": "LoadingLayerBG.png",
                     "color": {
-                        "r": 0,
-                        "g": 50,
-                        "b": 75
+                        "r": 255,
+                        "g": 255,
+                        "b": 255
+                    },
+                    "scale": {
+                        "fit": {
+                            "relative": "screen"
+                        }
                     }
                 }
             }
